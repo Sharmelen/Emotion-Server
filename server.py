@@ -113,4 +113,4 @@ def show():
     return render_template("image.html")'''
 
 # start flask app
-app.run(host="10.170.0.2", port=5000)
+app.run(host="35.220.173.18", port=5000)
